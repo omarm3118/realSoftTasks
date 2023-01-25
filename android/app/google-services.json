@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "704126424461",
+    "project_id": "real-soft-b6c12",
+    "storage_bucket": "real-soft-b6c12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704126424461:android:1436f7c8e5ce59dd6a19c4",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704126424461-209ohhk5fitrvg5s0thkn0iic8ig338p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqhG7kDCFKJdKcz30561fel246fCdDsKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704126424461-209ohhk5fitrvg5s0thkn0iic8ig338p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
